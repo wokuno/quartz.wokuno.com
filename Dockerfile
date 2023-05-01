@@ -7,4 +7,4 @@ RUN git clone https://github.com/wokuno/quartz.wokuno.com /quartz
 
 WORKDIR /quartz
 
-CMD ["make", "serve"]
+CMD ["make", "build"]
